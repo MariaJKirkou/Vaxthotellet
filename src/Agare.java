@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Ägare { // en klass där jag sparar metoderna som ska köras i main.
+public class Agare { // en klass där jag sparar metoderna som ska köras i main.
 
     public void vattna(Vaxt[] vaxter) {
 
